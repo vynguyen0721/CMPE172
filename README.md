@@ -1,2 +1,1 @@
-# CMPE172 Lab Notes
-Spring Demo App
+# CMPE172 Spring Demo App
